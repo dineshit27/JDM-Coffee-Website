@@ -13,10 +13,8 @@ Welcome to the JDM Coffee Website! This is a modern, responsive website designed
 
 ## 📦 Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript (React.js)
-- **Backend**: Node.js (Express)
+- **Frontend**: HTML5, CSS3, JavaScript
 - **Database**: MongoDB
-- **Payment Integration**: Stripe API
 - **Hosting**: Netlify (Frontend), Heroku (Backend)
 - **Version Control**: Git, GitHub
 
