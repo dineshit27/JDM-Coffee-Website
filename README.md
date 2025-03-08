@@ -1,6 +1,6 @@
-# JDM Coffee Website
+# JDM Coffee Port
 
-Welcome to the JDM Coffee Website! This is a modern, responsive website designed to showcase our premium range of Japanese Domestic Market (JDM) coffee beans and products. Whether you're a coffee enthusiast or just looking to try something new, this website is the perfect place to explore unique blends, order online, and learn more about the rich world of JDM coffee.
+Welcome to the JDM Coffee Website! This is a modern, responsive website designed to showcase our premium range of coffee beans and products. Whether you're a coffee enthusiast or just looking to try something new, this website is the perfect place to explore unique blends, order online, and learn more about the rich world of JDM coffee.
 
 ## 🚀 Features
 
