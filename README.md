@@ -20,7 +20,7 @@ Welcome to the JDM Coffee Website! This is a modern, responsive website designed
 
 ## 🌐 Live Demo
 
-Check out the live version of the website: [JDM Coffee Website Live Demo](https://jdm-coffee-website.netlify.app/)
+Check out the live version of the website: [JDM Coffee Website Live Demo](https://jdm-coffee-port.netlify.app/)
 
 ## 🛠️ Installation
 
